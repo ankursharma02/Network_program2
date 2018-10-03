@@ -1,0 +1,9 @@
+D:\C#pro\Network_pro1\Client_Server_ChatApplication\bin\Debug\Client_Server_ChatApplication.exe.config
+D:\C#pro\Network_pro1\Client_Server_ChatApplication\bin\Debug\Client_Server_ChatApplication.exe
+D:\C#pro\Network_pro1\Client_Server_ChatApplication\bin\Debug\Client_Server_ChatApplication.pdb
+D:\C#pro\Network_pro1\Client_Server_ChatApplication\obj\Debug\Clients.csprojAssemblyReference.cache
+D:\C#pro\Network_pro1\Client_Server_ChatApplication\obj\Debug\Clients.csproj.CoreCompileInputs.cache
+D:\C#pro\Network_pro1\Client_Server_ChatApplication\obj\Debug\Client_Server_ChatApplication.exe
+D:\C#pro\Network_pro1\Client_Server_ChatApplication\obj\Debug\Client_Server_ChatApplication.pdb
+D:\C#pro\Network_pro1\Client_Server_ChatApplication\bin\Debug\NetworkCommsDotNet.dll
+D:\C#pro\Network_pro1\Client_Server_ChatApplication\obj\Debug\Clients.csproj.CopyComplete

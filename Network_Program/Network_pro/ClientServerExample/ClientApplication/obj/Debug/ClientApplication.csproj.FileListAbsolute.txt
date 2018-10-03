@@ -1,0 +1,8 @@
+D:\C#pro\Network_pro\ClientServerExample\ClientApplication\bin\Debug\ClientApplication.exe.config
+D:\C#pro\Network_pro\ClientServerExample\ClientApplication\bin\Debug\ClientApplication.exe
+D:\C#pro\Network_pro\ClientServerExample\ClientApplication\bin\Debug\ClientApplication.pdb
+D:\C#pro\Network_pro\ClientServerExample\ClientApplication\bin\Debug\NetworkCommsDotNet.dll
+D:\C#pro\Network_pro\ClientServerExample\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+D:\C#pro\Network_pro\ClientServerExample\ClientApplication\obj\Debug\ClientApplication.csproj.CopyComplete
+D:\C#pro\Network_pro\ClientServerExample\ClientApplication\obj\Debug\ClientApplication.exe
+D:\C#pro\Network_pro\ClientServerExample\ClientApplication\obj\Debug\ClientApplication.pdb

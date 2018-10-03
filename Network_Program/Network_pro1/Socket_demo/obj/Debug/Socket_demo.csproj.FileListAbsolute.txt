@@ -1,0 +1,6 @@
+D:\C#pro\Network_pro1\Socket_demo\bin\Debug\Socket_demo.exe.config
+D:\C#pro\Network_pro1\Socket_demo\bin\Debug\Socket_demo.exe
+D:\C#pro\Network_pro1\Socket_demo\bin\Debug\Socket_demo.pdb
+D:\C#pro\Network_pro1\Socket_demo\obj\Debug\Socket_demo.csproj.CoreCompileInputs.cache
+D:\C#pro\Network_pro1\Socket_demo\obj\Debug\Socket_demo.exe
+D:\C#pro\Network_pro1\Socket_demo\obj\Debug\Socket_demo.pdb

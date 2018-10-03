@@ -1,0 +1,7 @@
+D:\C#pro\Network_pro1\ClientDemo\bin\Debug\ClientDemo.exe.config
+D:\C#pro\Network_pro1\ClientDemo\bin\Debug\ClientDemo.exe
+D:\C#pro\Network_pro1\ClientDemo\bin\Debug\ClientDemo.pdb
+D:\C#pro\Network_pro1\ClientDemo\obj\Debug\ClientDemo.csproj.CoreCompileInputs.cache
+D:\C#pro\Network_pro1\ClientDemo\obj\Debug\ClientDemo.exe
+D:\C#pro\Network_pro1\ClientDemo\obj\Debug\ClientDemo.pdb
+D:\C#pro\Network_pro1\ClientDemo\obj\Debug\ClientDemo.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\C#pro\Network_pro1\Client_Server_ChatApplication\Clients2\bin\Debug\Clients2.exe.config
+D:\C#pro\Network_pro1\Client_Server_ChatApplication\Clients2\bin\Debug\Clients2.exe
+D:\C#pro\Network_pro1\Client_Server_ChatApplication\Clients2\bin\Debug\Clients2.pdb
+D:\C#pro\Network_pro1\Client_Server_ChatApplication\Clients2\obj\Debug\Clients2.csproj.CoreCompileInputs.cache
+D:\C#pro\Network_pro1\Client_Server_ChatApplication\Clients2\obj\Debug\Clients2.exe
+D:\C#pro\Network_pro1\Client_Server_ChatApplication\Clients2\obj\Debug\Clients2.pdb
+D:\C#pro\Network_pro1\Client_Server_ChatApplication\Clients2\obj\Debug\Clients2.csprojAssemblyReference.cache

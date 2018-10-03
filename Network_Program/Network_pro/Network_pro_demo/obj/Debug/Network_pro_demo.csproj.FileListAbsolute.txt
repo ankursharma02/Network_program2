@@ -1,0 +1,9 @@
+D:\C#pro\Network_pro\Network_pro_demo\obj\Debug\Network_pro_demo.csprojAssemblyReference.cache
+D:\C#pro\Network_pro\Network_pro_demo\obj\Debug\Network_pro_demo.csproj.CoreCompileInputs.cache
+D:\C#pro\Network_pro\Network_pro_demo\bin\Debug\Network_pro_demo.exe.config
+D:\C#pro\Network_pro\Network_pro_demo\bin\Debug\Network_pro_demo.exe
+D:\C#pro\Network_pro\Network_pro_demo\bin\Debug\Network_pro_demo.pdb
+D:\C#pro\Network_pro\Network_pro_demo\obj\Debug\Network_pro_demo.exe
+D:\C#pro\Network_pro\Network_pro_demo\obj\Debug\Network_pro_demo.pdb
+D:\C#pro\Network_pro\Network_pro_demo\bin\Debug\NetworkCommsDotNet.dll
+D:\C#pro\Network_pro\Network_pro_demo\obj\Debug\Network_pro_demo.csproj.CopyComplete
